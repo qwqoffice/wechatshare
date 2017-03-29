@@ -1,0 +1,104 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WX Custom Share 1.2\n"
+"POT-Creation-Date: 2016-12-28 10:24+0800\n"
+"PO-Revision-Date: 2016-12-28 10:23+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wechatshare.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wechatshare.php:32
+msgid "Settings"
+msgstr ""
+
+#: wechatshare.php:42 wechatshare.php:49
+msgid "Wechat Share Settings"
+msgstr ""
+
+#: wechatshare.php:42 wechatshare.php:89
+msgid "Wechat Share"
+msgstr ""
+
+#: wechatshare.php:54
+msgid "Post types to custom"
+msgstr ""
+
+#: wechatshare.php:64
+msgid "Other"
+msgstr ""
+
+#: wechatshare.php:68
+msgid "Clear plugin data when uninstall"
+msgstr ""
+
+#: wechatshare.php:76
+msgid "Save"
+msgstr ""
+
+#: wechatshare.php:109
+msgid "Icon"
+msgstr ""
+
+#: wechatshare.php:112
+msgid "Media"
+msgstr ""
+
+#: wechatshare.php:114
+msgid ""
+"Enter a URL, Upload or choose from media library. And the image will be "
+"resized to 300*300. Please make sure the image you selected is square."
+msgstr ""
+
+#: wechatshare.php:116
+msgid "Support png, jpg, gif and wbmp"
+msgstr ""
+
+#: wechatshare.php:122
+msgid "Preview"
+msgstr ""
+
+#: wechatshare.php:125
+msgid "Timeline"
+msgstr ""
+
+#: wechatshare.php:135 wechatshare.php:165
+msgid "cannot get the image"
+msgstr ""
+
+#: wechatshare.php:143
+msgid "1 min ago"
+msgstr ""
+
+#: wechatshare.php:153
+msgid "Chat"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WX Custom Share"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.qwqoffice.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Custom the icon in Wechat share link."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "QwqOffice"
+msgstr ""
